@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "test1",
+    "owner": "xzr",
+    "description": "pugbotto"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "asd",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "xzr"
+  }
+}
